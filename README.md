@@ -151,18 +151,6 @@ Valoro especialmente:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Jasier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasiermatos\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasiermatos\&layout=compact\&theme=transparent\&hide_border=true)
-
-</div>
-
----
-
 ## Contacto
 
 * GitHub: [@Jasiermatos](https://github.com/Jasiermatos)
