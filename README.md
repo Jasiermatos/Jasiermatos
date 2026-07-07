@@ -166,9 +166,8 @@ Valoro especialmente:
 ## Contacto
 
 * GitHub: [@Jasiermatos](https://github.com/Jasiermatos)
-* LinkedIn: **[pendiente de agregar]**
-* Portafolio: **[pendiente de agregar]**
-* Correo profesional: **[pendiente de confirmar si deseas hacerlo público]**
+* LinkedIn: **[www.linkedin.com/in/jasier-m-matos-]**
+* Correo profesional: **[jasiermm@gmail.com]**
 
 ---
 
